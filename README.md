@@ -1,4 +1,3 @@
 # hello-world
 
-
-Hi! I'm joy.
+Have a nice day!
